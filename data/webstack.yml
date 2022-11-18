@@ -1,0 +1,434 @@
+---
+- taxonomy: QIN2DIM
+  icon: fa-star
+  links:
+    - title: Tech Blog
+      logo: assets/images/avatar.png
+      url: "https://blog.echosec.top"
+      description: "分享与技术有关的趣事"
+    - title: GitHub
+      logo: assets/images/logos/GitHub.svg
+      url: https://github.com/QIN2DIM
+      description: "GitHub 个人主页"
+    - title: Twitter
+      logo: assets/images/logos/twitter.svg
+      url: https://twitter.com/Tk206_
+      description: "Twitter 个人主页"
+    - title: Telegram群组
+      logo: assets/images/logos/telegram.svg
+      url: https://t.me/+tJrSQ0_0ujkwZmZh
+      description: QIN2DIN's Tech Studio
+
+- taxonomy: 闪电内链
+  icon: fa-pinterest
+  links:
+    - title: Kiwivm
+      logo: assets/images/logos/back-end.svg
+      url: https://kiwivm.64clouds.com/
+      description: 搬瓦工管理面板
+    - title: Outlook
+      logo: assets/images/logos/light-component-outlook-Forwardmail.svg
+      url: https://outlook.live.com/mail/0/
+      description: Outlook 网页版链接
+    - title: ProtonMail
+      logo: assets/images/logos/unnamed.webp
+      url: https://mail.proton.me/u/0/inbox
+      description: Ptoton 网页版链接
+    - title: Gmail
+      logo: assets/images/logos/L0W5hykJ_400x400.jpg
+      url: https://mail.google.com/mail/u/0/#inbox
+      description: Gmail 网页版链接
+    - title: Gofile
+      url: https://gofile.io/uploadFiles
+      logo: assets/images/logos/gofile2.png
+      description: 文件临时中转
+    - title: LeetCode
+      url: https://leetcode.cn/progress/
+      logo: assets/images/logos/leetcode-3629476-3031539.png
+      description: LeetCode progress
+    - title: Easycv
+      url: https://easycv.cn/resumes
+      logo: assets/images/logos/easycv.ico
+      description: 简历管理
+    - title: 微信读书
+      url: https://weread.qq.com/web/shelf
+      logo: assets/images/logos/256.webp
+      description: web shelf
+    - title: Spotify List
+      url: https://open.spotify.com/playlist/37i9dQZF1EQpwudUiy0F5a
+      logo: assets/images/logos/spotify.png
+      description: 华语流行乐合辑
+    - title: YBMusic List
+      url: https://music.youtube.com/watch?v=MpYy6wwqxoo&list=RDAMVMMpYy6wwqxoo
+      logo: assets/images/logos/youtube-music.png
+      description: THE FIRST TAKE
+
+
+- taxonomy: TikShorts
+  icon: fa-graduation-cap
+  links:
+    - title: Phrasebank
+      logo: assets/images/logos/1519782_colorful_document_note_office_paper_icon.png
+      url: https://www.phrasebank.manchester.ac.uk/
+      description: SCI 论文词法短语库
+    - title: QuillBot
+      logo: assets/images/logos/quillbot.png
+      url: https://quillbot.com/
+      description: 语句增强、润色、改写
+    - title: InfoQ
+      logo: assets/images/logos/qs25di18lrwglyiwvesu.webp
+      url: https://www.infoq.cn/
+      description: 促进软件开发及相关领域知识与创新的传播
+    - title: 36Kr
+      logo: assets/images/logos/y6h2zmrzzwaxqhygfgiu.webp
+      url: https://www.36kr.com/information/technology/
+      description: 前沿的科技发展趋势
+
+
+- taxonomy: 素材资源
+  icon: fa-thumbs-up
+  list:
+    - term: 图标素材
+      links:
+        - title: iconfont
+          logo: assets/images/logos/iconfont.png
+          url: http://www.iconfont.cn/
+          description: 阿里巴巴矢量图标库
+        - title: Iconfinder
+          logo: assets/images/logos/Iconfinder.png
+          url: https://www.iconfinder.com
+          description: 2,100,000+ free and premium vector icons.
+        - title: FindIcons
+          logo: assets/images/logos/FindIcons.png
+          url: https://findicons.com/
+          description: Search through 300,000 free icons
+        - title: easyicon
+          logo: assets/images/logos/easyicon.png
+          url: http://www.easyicon.net/
+          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
+        - title: Font Awesome Icon
+          logo: assets/images/logos/fontawesomeicon.png
+          url: https://fontawesome.com/icons/
+          description: The complete set of 675 icons in Font Awesome
+        - title: Tabler Icons
+          logo: assets/images/logos/TablerIcons.svg
+          url: https://tablericons.com/
+          description: 1424 Fully customizable free SVG icons. (MIT license)
+    - term: 媒体资源
+      links:
+        - title: Pixabay
+          url: https://pixabay.com/
+          logo: assets/images/logos/pixabay.png
+          description: "可在任何地方使用的免费图片和视频"
+        - title: Unsplash
+          url: https://unsplash.com/
+          logo: assets/images/logos/unsplash.png
+          description: "美丽而免费的照片"
+        - title: Pexels
+          url: https://www.pexels.com/zh-cn/
+          logo: assets/images/logos/7275380_pexels_apps_platform_icon.svg
+          description: "精彩的素材图片和视频"
+        - title: coverr
+          url: "https://coverr.co/"
+          logo: assets/images/logos/coverr.png
+          description: "Beautiful Free Stock Video Footage"
+        - title: MixKit
+          url: "https://mixkit.co/"
+          logo: assets/images/logos/mixkit.jpg
+          description: "Free assets for your next video project"
+        - title: videvo
+          url: "https://www.videvo.net/"
+          logo: assets/images/logos/videvo.png
+          description: "Free Stock Video Footage"
+        - title: Wallpaper
+          url: https://wall.alphacoders.com/?lang=Chinese
+          logo: assets/images/logos/wallpaper-alphacoders.jpg
+          description: 免费高清壁纸
+        - title: Wallhaven
+          url: https://wallhaven.cc/
+          logo: assets/images/logos/wallhaven.png
+          description: 桌面壁纸
+
+    - term: 字体资源
+      links:
+        - title: fontspace
+          url: https://www.fontspace.com/
+          logo: assets/images/logos/fontspace-logo-white-text.jpg
+          description: 88,000+ Free Fonts
+        - title: 100font
+          url: https://www.100font.com/
+          logo: assets/images/logos/100font.png
+          description: "一个专门收集整理「免费商用字体」的网站"
+
+    - term: PPT资源
+      links:
+        - title: OfficePLUS
+          url: http://www.officeplus.cn/Template/Home.shtml
+          logo: assets/images/logos/officeplus.png
+          description: OfficePLUS，微软Office官方在线模板网站！
+        - title: 优品PPT
+          url: http://www.ypppt.com/
+          logo: assets/images/logos/ypppt.png
+          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源
+        - title: PPT超级市场
+          url: https://www.pptsupermarket.com/
+          logo: assets/images/logos/ppt超级市场.jpg
+          description: 免费、优质、高效、安全的PPT模版下载与PPT定制
+    - term: 飞秋
+      links:
+        - title: 片库
+          url: https://www.btnull.org/
+          logo: assets/images/logos/片库.jpg
+          description: 免费的影视资源站点
+        - title: AGE.TV
+          url: https://www.agemys.com/
+          logo: assets/images/logos/AGETV.jpg
+          description: 动漫番剧在线观看
+
+
+- taxonomy: 常用工具
+  icon: fa-diamond
+  list:
+    - term: 临时邮箱
+      links: 
+        - title: 临时邮箱
+          url: https://linshiyouxiang.net/
+          logo: assets/images/logos/tempmail.png
+          description: 24小时免费邮箱
+        - title: Temp Mail
+          url: https://temp-mail.to/
+          logo: assets/images/logos/Snipaste_2022-01-29_09-08-07.png
+          description: Free, easy to use and reliable temporary email address.
+        - title: Tempmail Plus
+          url: https://tempmail.plus/zh/#!
+          logo: assets/images/logos/tempemail_plus.png
+          description: 一次性的匿名邮箱服务
+
+    - term: 图像处理
+      links:
+        - title: docsmall
+          url: https://docsmall.com/gif-compress
+          logo: assets/images/logos/adf3ce1.png
+          description: GIF在线压缩
+        - title: 稿定抠图
+          url: https://www.gaoding.com
+          logo: assets/images/logos/gaoding.png
+          description: 免费在线抠图软件,图片快速换背景-抠白底图
+        - title: Squoosh
+          url: https://squoosh.app/
+          logo: assets/images/logos/squoosh.png
+          description: 图片在线压缩
+
+- taxonomy: 开发依赖
+  icon: fa-code
+  list:
+    - term: 技术文档
+      links:
+        - title: RFC9000
+          url: https://www.rfc-editor.org/rfc/rfc9000.html
+          logo: assets/images/logos/qbv28d4klwdfxq43i02f.webp
+          description: A UDP-Based Multiplexed and Secure Transport
+        - title: Docker CLI
+          url: https://docs.docker.com/compose/reference/
+          logo: assets/images/logos/docker.svg
+          description: Docker 指令介绍
+        - title: Go语言设计与实现
+          url: https://draveness.me/golang/
+          description: 书籍电子文档
+        - title: Go语言高级编程
+          url: https://chai2010.cn/advanced-go-programming-book/
+          description: 书籍电子档
+        - title: 小林coding
+          url: https://xiaolincoding.com/
+          description: 图解计算机基础
+          logo: assets/images/logos/xiaolin.webp
+        - title: CDP
+          url: https://chromedevtools.github.io/devtools-protocol/tot/Emulation/
+          description: Chrome DevTools Protocol
+          logo: assets/images/logos/CDP.png
+        - title: CLS
+          url: https://peter.sh/experiments/chromium-command-line-switches/#enable-print-preview-register-promos
+          description: List of Chromium Command Line Switches
+          logo: assets/images/logos/1646807037162.png
+
+    - term: 平台组件
+      links:
+        - title: DeepSource
+          url: https://deepsource.io/
+          logo: assets/images/logos/deepsource.png
+          description: 代码质量审查
+        - title: MakeSense
+          url: https://www.makesense.ai/
+          logo: assets/images/logos/make-sense.png
+          description: 图像数据集标注
+        - title: Cloud Studio
+          url: https://gh.cloudstudio.net/dashboard/general
+          logo: assets/images/logos/visualstudio.svg
+          description: 在线编程环境
+        - title: Free AI Hub
+          logo: assets/images/logos/狐狸logo.svg
+          url: https://www.freeaihub.com/
+          description: 交互式编程教学
+        - title: OpenAI Gym
+          url: https://gym.openai.com/
+          logo: assets/images/logos/OpenAI.png
+          description: 强化学习算法开发平台
+        - title: ip111
+          url: http://www.ip111.cn/
+          logo: assets/images/logos/IP address.svg
+          description: 映射当前网络的外网IP地址
+        - title: AntiBot
+          url: https://bot.sannysoft.com/
+          logo: assets/images/logos/antibot 爬虫风险管理.svg
+          description: 映射当前浏览器驱动的运行参数
+
+
+- taxonomy: 关联导航
+  icon: fa-compass
+  list:
+    - term: 技术导航
+      links:
+        - title: 鱼皮导航
+          url: https://www.code-nav.cn/
+          logo: assets/images/logos/yupi-nav.png
+          description: 站长鱼皮的编程导航
+        - title: GitHub 中文社区
+          url: https://www.githubs.cn/
+          logo: assets/images/logos/GitHub.svg
+          description: 分享和传播优质开源的 GitHub 项目
+        - title: HelloGitHub
+          url: https://hellogithub.com/
+          logo: assets/images/logos/HelloGitHub.png
+          description: 分享 GitHub 上有趣、入门级的开源项目
+
+    - term: 资源导航
+      links:
+        - title: 优聚集
+          url: https://ujuji.com/
+          logo: assets/images/logos/优聚集.png
+          description: 既行好事，也问前程
+        - title: doyoudo
+          url: http://doyoudo.com/resources
+          logo: assets/images/logos/doyoudo.png
+          description: doyoudo设计资源推荐
+        - title: 影视森林
+          url: https://www.549.tv/
+          logo: assets/images/logos/影视.svg
+          description: 影视资源导航
+
+
+- taxonomy: OSINT
+  icon: fa-user-secret
+  list:
+    - term: OSINT
+      links:
+      - title: WhatMyName
+        url: https://whatsmyname.app/
+        logo: assets/images/logos/whatmyname.jpg
+        description: 用户名搜索引擎
+      - title: crt.sh
+        url: https://crt.sh/?
+        logo: assets/images/logos/crt-sh.png
+        description: 证书搜索引擎
+      - title: ZoomEye
+        url: https://www.zoomeye.org/component
+        logo: assets/images/logos/ZoomeEye.jpg
+        description: 互联网资产搜索引擎
+      - title: Shodan
+        url: https://www.shodan.io/
+        logo: assets/images/logos/shodan.jpg
+        description: 互联网连接设备搜索引擎
+      - title: SunCalc
+        url: http://suncalc.net/
+        logo: assets/images/logos/SunCalc.jpg
+        description: 获取指定时刻的太阳位置和日光相位
+      - title: REG007
+        url: https://www.reg007.com
+        logo: assets/images/logos/reg007.jpg
+        description: 用户画像分析
+      - title: OpenGPS
+        url: https://www.opengps.cn/Data/IP/ipplus.aspx
+        logo: assets/images/logos/opengps.jpg
+        description: 高精度IP定位
+      # - title: CLTT
+      #   url: http://www.cltt.org/studentscore
+      #   logo: 
+      #   description: 获取CT头像
+        
+- taxonomy: 数据洞见
+  icon: fa-binoculars
+  list:
+    - term: 国内咨询机构数据报告
+      links:
+        - title: 艾瑞网
+          url: https://report.iresearch.cn/
+          logo: assets/images/logos/airui.jpg
+          description: 互联网行业报告
+        - title: 艾瑞APP指数
+          url: https://index.iresearch.com.cn/new/#/app
+          logo: assets/images/logos/airui.jpg
+          description: 移动App TOP 1000 月度活跃和日活跃
+        - title: 艾瑞PC指数
+          url: https://index.iresearch.com.cn/new/#/pc
+          logo: assets/images/logos/airui.jpg
+          description: PC TOP 1000-月度活跃和日活跃
+        - title: 199IT 
+          url: http://www.199it.com/
+          logo: assets/images/logos/199it.jpg
+          description: 中文互联网数据资讯网
+        - title: CNNIC
+          url: http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/
+          logo: assets/images/logos/CNNIC.png
+          description: 中国互联网信息中心
+        - title: STOCK.US
+          url: https://stock.us/cn/report/strategy
+          logo: assets/images/logos/stockus.jpg
+          description: 免费下载研报文件
+        - title: 聚研宝
+          url: https://juyanbao.com.cn/live
+          logo: assets/images/logos/juyanbao.jpg
+          description: 行业快讯
+        - title: IDC
+          url: https://www.idc.com/cn?tab=news
+          logo: assets/images/logos/IDC.png
+          description: 国际数据公司
+    - term: 国外咨询机构数据报告
+      links:
+        - title: IBM 
+          url: https://www.ibm.com/cn-zh/services/insights/institute-business-value
+          logo: assets/images/logos/IBM.png
+          description: 商业价值研究院
+        - title: similarweb
+          url: https://www.similarweb.com/zh/
+          logo: assets/images/logos/similarweb.png
+          description: 站点流量分析
+        - title: GSMA
+          url: https://www.gsma.com/mobileeconomy/
+          logo: assets/images/logos/GSMA.jpg
+          description: 全球移动互联网经济分析报告
+        - title: 普华永道
+          url: https://www.pwccn.com/zh/research-and-insights.html
+          logo: assets/images/logos/phyd.jpg
+          description: 各个行业的主要发现和行业报告
+        - title: McKinsey
+          url: https://www.mckinsey.com.cn/
+          logo: assets/images/logos/mkx.png
+          description: 行业洞见   
+    - term: 国家机构公开数据    
+      links:
+        - title: 国家宏观经济数据
+          url: http://www.gov.cn/shuju/index.htm
+          logo:  assets/images/logos/数据聚焦.svg
+          description: 年度数据统计公报
+        - title: 国家统计局
+          url: http://www.stats.gov.cn/tjsj/
+          logo: assets/images/logos/统计 (1).svg
+          description: 国家统计局
+        - title: 世界银行公开数据
+          url: https://data.worldbank.org.cn/
+          logo: assets/images/logos/worldbank-logo-200.png
+          description: 免费并公开获取世界各国的发展数据
+        - title: Knoema
+          url: https://cn.knoema.com/
+          logo: assets/images/logos/knoema.png
+          description: 面向技术和非技术专业人员的数据洞见、数据管理和可视化工具
