@@ -5,7 +5,7 @@ print(){
 	echo "${GREEN}$1${NC}"
 }
 
-cd /e/_GithubProjects/myProfile/blog-nav || exit
+cd /e/_GithubProjects/myProfile/blog-nav-rofa || exit
 hugo &> /dev/null
 print "[1/2] hugo gc"
 
